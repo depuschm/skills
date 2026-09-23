@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+
+# Manim and video output from test runs
+media/
+*.mp3
+*.mp4
+*.srt
+*.wav
+
+# Packaged skills
+*.skill
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
